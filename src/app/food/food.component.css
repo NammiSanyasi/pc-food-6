@@ -1,0 +1,7 @@
+.food
+{
+    margin: 5px;
+    overflow-x: scroll;
+    justify-content: space-between;
+    
+}

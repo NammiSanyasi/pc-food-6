@@ -1,0 +1,7 @@
+ #foods 
+{   
+    display: flex;
+    justify-content: space-between;
+    overflow-x: scroll;
+    text-align: center;
+}
